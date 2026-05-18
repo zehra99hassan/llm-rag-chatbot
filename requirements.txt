@@ -2,4 +2,10 @@ fastapi
 uvicorn
 qdrant-client
 langchain
+langgraph
+sentence-transformers
+google-generativeai
+firestore
 python-dotenv
+pydantic
+httpx
